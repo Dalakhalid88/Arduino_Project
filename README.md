@@ -44,6 +44,5 @@ You can view and test the circuit in Tinkercad using the following link:
 A video showing the circuit in action can be found here:  
 [**Google Drive Video**](https://drive.google.com/file/d/1WQ6RMIWD_KLoBi3o2uKAXUdECSb4yZPu/view?usp=sharing)
 
----
-**Created by:** [Dala Khalid]  
+
 
