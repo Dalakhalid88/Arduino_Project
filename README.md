@@ -34,7 +34,7 @@ When a button is pressed, the Arduino detects the input and turns on the corresp
 4. When the button is released, the LED turns OFF.
 
 ## Circuit Image
-![Circuit Image](Arduino_project_pic)
+![Circuit Image](Arduino_project_pic.png)
 
 ## Simulation Link
 You can view and test the circuit in Tinkercad using the following link:  
